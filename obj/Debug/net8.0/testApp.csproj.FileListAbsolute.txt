@@ -1,0 +1,14 @@
+/Users/rachelcorawood/Desktop/testApp/obj/Debug/net8.0/testApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rachelcorawood/Desktop/testApp/obj/Debug/net8.0/testApp.AssemblyInfoInputs.cache
+/Users/rachelcorawood/Desktop/testApp/obj/Debug/net8.0/testApp.AssemblyInfo.cs
+/Users/rachelcorawood/Desktop/testApp/obj/Debug/net8.0/testApp.csproj.CoreCompileInputs.cache
+/Users/rachelcorawood/Desktop/testApp/bin/Debug/net8.0/testApp
+/Users/rachelcorawood/Desktop/testApp/bin/Debug/net8.0/testApp.deps.json
+/Users/rachelcorawood/Desktop/testApp/bin/Debug/net8.0/testApp.runtimeconfig.json
+/Users/rachelcorawood/Desktop/testApp/bin/Debug/net8.0/testApp.dll
+/Users/rachelcorawood/Desktop/testApp/bin/Debug/net8.0/testApp.pdb
+/Users/rachelcorawood/Desktop/testApp/obj/Debug/net8.0/testApp.dll
+/Users/rachelcorawood/Desktop/testApp/obj/Debug/net8.0/refint/testApp.dll
+/Users/rachelcorawood/Desktop/testApp/obj/Debug/net8.0/testApp.pdb
+/Users/rachelcorawood/Desktop/testApp/obj/Debug/net8.0/testApp.genruntimeconfig.cache
+/Users/rachelcorawood/Desktop/testApp/obj/Debug/net8.0/ref/testApp.dll
